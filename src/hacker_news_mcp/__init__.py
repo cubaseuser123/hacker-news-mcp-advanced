@@ -1,0 +1,1 @@
+"""hacker-news-mcp — FastMCP server for Hacker News."""
