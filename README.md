@@ -16,7 +16,7 @@ access to **Hacker News** through the public Algolia API.
 
 ```bash
 # Clone & install
-git clone https://github.com/your-username/hacker-news-mcp.git
+git clone https://github.com/cubaseuser123/hacker-news-mcp.git
 cd hacker-news-mcp
 uv sync
 
